@@ -14,7 +14,7 @@
         remote="royna" revision="lineage-20" />
     <project path="hardware/samsung" name="android_hardware_samsung" remote="lineage-custom" revision="lineage-20" />
     <project path="kernel/samsung/universal9611" name="kernel_samsung_universal9611" remote="dev"
-        revision="Grass-Unified" />
+        revision="0f0eeea33a7e2dde779ac2f7434f1db823139e18" />
     <project path="vendor/samsung/universal9611-common" name="vendor_samsung_universal9611-common"
         remote="dev" revision="lineage-20" />
     <project path="hardware/samsung_slsi/libbt" name="android_hardware_samsung_slsi_libbt"
